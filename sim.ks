@@ -1,3 +1,4 @@
+# 
 # Maintained by the Fedora Desktop SIG:
 # http://fedoraproject.org/wiki/SIGs/Desktop
 # mailto:desktop@lists.fedoraproject.org
@@ -98,7 +99,10 @@ meld
 subversion
 git
 mysql-workbench
-rabbitvcs-nautilus.x86_64
+rabbitvcs-nautilus
+rabbitvcs-gedit
+rabbitvcs-core
+rabbitvcs-cli
 #########
 # Repo
 #########
